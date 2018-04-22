@@ -2,8 +2,13 @@
   "name": "nuxtron",
   "version": "1.0.0",
   "description": "Nuxt + Electron",
-  "author": "Chryb <chryb.q@gmail.com>",
-  "private": true,
+  "author": "Christoph Biering <chryb.q@gmail.com> (http://chryb.me)",
+  "repository": {
+    "type" : "git",
+    "url": "https://github.com/chryb/nuxtron"
+  },
+  "license": "MIT",
+  "private": false,
   "main": "main.js",
   "build": {
     "appId": "",
