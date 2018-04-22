@@ -1,7 +1,7 @@
 {
   "name": "nuxtron",
   "version": "1.0.0",
-  "description": "Nuxt + Electron",
+  "description": "Electron + Nuxt Boilerplate",
   "author": "Christoph Biering <chryb.q@gmail.com> (http://chryb.me)",
   "repository": {
     "type" : "git",
